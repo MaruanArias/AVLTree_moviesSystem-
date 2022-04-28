@@ -8,3 +8,4 @@ System for the upload of files csv in a structure AVL tree
 The use of a balanced AVL tree is proposed as a solution for the storage of records. This is in accordance with the high demand of requirements that need data filtering or information search. A "Pelicula" data structure is created that abstracts the information to be stored from the movies.
 
 ##  Class Diagram
+![image](https://github.com/MaruanArias/AVLTree_moviesSystem-/blob/main/Archivo/TVBosqueClassDiagram.png)
